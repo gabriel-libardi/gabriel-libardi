@@ -8,8 +8,8 @@ I'm a computer engineering sophomore at USP and an enthusiast of open source tec
 <br />
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=gabriel-libardi&show_icons=true&theme=highcontrast">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-libardi&layout=compact&theme=highcontrast">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriel-libardi&show_icons=true&theme=highcontrast">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-libardi&layout=compact&theme=highcontrast">
 </div>
 <br />
 
