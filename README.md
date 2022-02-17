@@ -4,7 +4,8 @@ I'm a computer engineering sophomore at USP and an enthusiast of open source tec
 - 🎈 Member of [GEMA ICMC](http://gema.icmc.usp.br/)
 - ♟ Amateur chess player
 - ➕ Math nerd (specially of ℝeal Analysis)
-- 📈 Aspiring Data Scientist   
+- 📈 Aspiring Data Scientist
+- 🤝 Reach me at libardi.120205@protonmail.com   
 <br />
 
 <div align="center">
@@ -42,8 +43,10 @@ I'm a computer engineering sophomore at USP and an enthusiast of open source tec
   <a href="https://github.com/gabriel-libardi">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://lichess.org/@/RagingLikeABossTA">
+    <img src="https://img.shields.io/badge/Lichess-ffc0cb?style=for-the-badge&logo=lichess&logoColor=black">
+  </a>
 </div>
 
-<div align="right">
-  <img src="https://img.shields.io/github/followers/gabriel-libardi.svg?style=social&label=Follow&maxAge=2592000">
- <div/>
+
+  
