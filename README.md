@@ -47,7 +47,7 @@ I'm a computer engineering sophomore at USP and an enthusiast of open source tec
     <img src="https://img.shields.io/badge/Lichess-ffc0cb?style=for-the-badge&logo=lichess&logoColor=black">
   </a>
   <a href="https://codeforces.com/profile/embrasamento_algoritmico">
-    <img src="https://img.shields.io/badge/Codeforces-ddc240?style=for-the-badge&logo=codeforces&logoColor=black">
+    <img src="https://img.shields.io/badge/Codeforces-FCC624?style=for-the-badge&logo=codeforces&logoColor=black">
   </a>
 </div>
 
