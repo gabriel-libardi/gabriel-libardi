@@ -18,9 +18,9 @@ I'm a computer engineering sophomore at USP and an enthusiast of open source tec
 
 <div align="center">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
@@ -45,6 +45,9 @@ I'm a computer engineering sophomore at USP and an enthusiast of open source tec
   </a>
   <a href="https://lichess.org/@/RagingLikeABossTA">
     <img src="https://img.shields.io/badge/Lichess-ffc0cb?style=for-the-badge&logo=lichess&logoColor=black">
+  </a>
+  <a href="https://codeforces.com/profile/embrasamento_algoritmico">
+    <img src="https://img.shields.io/badge/Codeforces-ddc240?style=for-the-badge&logo=codeforces&logoColor=black">
   </a>
 </div>
 
