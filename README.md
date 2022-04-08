@@ -1,7 +1,7 @@
 ## ♟ Hey There 👋 I'm Gabriel Libardi ♟
 I'm a computer engineering sophomore at USP and an enthusiast of open source technology. On a regular day, I'll probably spend 8 hours on **[Lichess](https://lichess.org/)**, and the other 16 hours being a huge nerd.
 
-- 📖 Member of [NEMO ICMC](https://drive.google.com/drive/folders/1mRLYE9VW7o9AAj4c-ksb_aRClGwbU3o2)
+- 📕 Member of [NEMO ICMC](https://drive.google.com/drive/folders/1mRLYE9VW7o9AAj4c-ksb_aRClGwbU3o2)
 - ♟ Amateur chess player
 - ➕ Math nerd (specially of ℝeal Analysis)
 - 📈 Aspiring Data Scientist
